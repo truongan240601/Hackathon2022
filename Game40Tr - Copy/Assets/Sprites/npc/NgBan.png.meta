@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: 1c799c011ef7d064c80292aa3bfae2cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NgBan_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1070
+        width: 157
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bed18d65d8de34da17783dd1ed44cf
+      internalID: 158070061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1068
+        width: 162
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c76f156507767d4b8600eb58521293a
+      internalID: 1755245087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1066
+        width: 162
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25218179998ad4ea63938fac935e2b
+      internalID: 324168862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1066
+        width: 160
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109927e5bbdd72249ad78fbb03e3acfe
+      internalID: 793974939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1063
+        width: 160
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833f1d4b1bb84554e83dbb6ad936b8dd
+      internalID: 2120390530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1063
+        width: 163
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fe6dc6693d5c428315fd8a8a66b81
+      internalID: 457224056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_6
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1066
+        width: 162
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f0c9c440edf946837e6faf4765d1e
+      internalID: 405310079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 894
+        width: 153
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9ea10ee3efa2468795a3d49904833
+      internalID: -230022370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 894
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfaadd15c04aa4193499c4c070f57d
+      internalID: 94691773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 894
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bc8963ce58dab46a565f8e629f041d
+      internalID: -1243447188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 894
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a795cdc744864aba44f02f447255b
+      internalID: 306066203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 894
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d62e6b93c7ef4781b26adc7dd33d8
+      internalID: -1618428545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 709
+        width: 164
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbab2362b9907a49a65b1afaf06dffa
+      internalID: 1682253486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 709
+        width: 164
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73009288240a46d4da3c4f5fe8fd9f87
+      internalID: 4390646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 709
+        width: 166
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81e3609fef071f4dbc0e6b83ef649af
+      internalID: -1259174841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 704
+        width: 171
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc76086c64bdfeb42b756e96e9aaaa70
+      internalID: -1400603773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_18
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 695
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dcec5112a663942ab6a97d3de3e710
+      internalID: 957190535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_20
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 714
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c21be909b8214391b37d81454f264
+      internalID: -48565208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_21
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 709
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ab1381423d4d41af108982a16a9cd
+      internalID: 563270469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_22
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 717
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb39f02d3450ab4d8427d7c53cb77a3
+      internalID: -756915747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 527
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ffaf36ba4064418f709ac5b7fe2be
+      internalID: 1113947036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 529
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5da5d4f98ea6f49b3722095e11f217
+      internalID: 586071341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_33
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 530
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282dd5d1224455f44949748721fd014c
+      internalID: 288085838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 420
+        width: 71
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b45e2d689f374c9d22701d4c78292
+      internalID: 388201094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 410
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe063632713ab408729c4804cf45ac
+      internalID: 829870633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 399
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfbb49bf7d1b2649b5d29519cf5ddbd
+      internalID: 1142001072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 393
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649c6d73d5e1b14ea9dc6dd92ada66d
+      internalID: -1922254713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_54
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 389
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dfe8b643ba8c546b74b1358b8b7051
+      internalID: 91172252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_55
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 389
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d7eccd2113d74c8a42e423d78bc18
+      internalID: 1323481355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_56
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 389
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a69bda68d099c343936cb50ea4825cd
+      internalID: 489901418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_57
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 389
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46881122a5c7b8b49ae26ba81ea164d8
+      internalID: -1468526926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_58
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 389
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6287152e84b3b94f8554722acce28d9
+      internalID: 483210948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_59
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 377
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a3cf9e83caf144879315e309d4cab
+      internalID: 1254011908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_61
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 377
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70300b78f852d3c4aa240d73144439d8
+      internalID: -1523932841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_62
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 377
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e33e3c46d96c48971f40be3290cb9
+      internalID: -239814932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_63
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 372
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608037ec22c3a2940be4fb85017db4dd
+      internalID: 926340428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_64
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 399
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f81e4ccadbd914d9bba364fff65381
+      internalID: -901007550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 25
+        width: 44
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8115e724727494b9ba35b5abfe71bd
+      internalID: 1025238485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 30
+        width: 64
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01deba69e7a271041887adbb9eeca84a
+      internalID: 2097665026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 42
+        width: 81
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835cee061ac3f7b42a556d1d80b5b1c0
+      internalID: 1285596883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 58
+        width: 131
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca6fcebe72e33b48a2f96d39d961f0d
+      internalID: -1058491525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_44
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 58
+        width: 76
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e126d5af55774386303716f4dce33
+      internalID: -1068230189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 531
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032cc9198a9d9b34da4f255702782726
+      internalID: -1531789839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 530
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006a073fb1a2434f922450961df0bf0
+      internalID: 220376302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_36
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 532
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f86764c74684342ae3fe03d268db89
+      internalID: -475184961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_37
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 533
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4e18b9617e71240834d9568576940d
+      internalID: -654272106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 702
+        width: 188
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7581d217fdb854980d96a54dd4f450
+      internalID: 512110946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_60
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 377
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c6438b4569b6448d90cacbb711541
+      internalID: -1464363987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_46
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 51
+        width: 70
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64278510cff4f4d4c8337e720c35a0c0
+      internalID: -355612338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NgBan_45
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 51
+        width: 75
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59041888099dab34a9711dc46d0b0f8a
+      internalID: -1879605251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NgBan_66: -1993008766
+      NgBan_86: -637531726
+      NgBan_61: -1523932841
+      NgBan_49: -841459224
+      NgBan_80: -193127565
+      NgBan_20: -48565208
+      NgBan_32: 586071341
+      NgBan_74: 967078542
+      NgBan_17: -1400603773
+      NgBan_36: -475184961
+      NgBan_65: 81551187
+      NgBan_52: 1142001072
+      NgBan_21: 563270469
+      NgBan_79: 1056860890
+      NgBan_73: -1917279519
+      NgBan_4: 2120390530
+      NgBan_93: 1513402317
+      NgBan_44: -1068230189
+      NgBan_56: 489901418
+      NgBan_57: -1468526926
+      NgBan_77: -712488271
+      NgBan_121: 1894589341
+      NgBan_31: 1113947036
+      NgBan_27: 969514720
+      NgBan_51: 829870633
+      NgBan_12: 306066203
+      NgBan_14: 1682253486
+      NgBan_54: 91172252
+      NgBan_0: 158070061
+      NgBan_13: -1618428545
+      NgBan_9: -230022370
+      NgBan_130: 1679597663
+      NgBan_35: 220376302
+      NgBan_98: 562589126
+      NgBan_29: 976259327
+      NgBan_58: 483210948
+      NgBan_120: -2018279915
+      NgBan_122: -1501827498
+      NgBan_146: -2046442885
+      NgBan_18: 957190535
+      NgBan_40: 1025238485
+      NgBan_11: -1243447188
+      NgBan_59: 1254011908
+      NgBan_147: 1277858369
+      NgBan_34: -1531789839
+      NgBan_22: -756915747
+      NgBan_1: 1755245087
+      NgBan_45: -1879605251
+      NgBan_15: 4390646
+      NgBan_39: -1645358207
+      NgBan_78: -988344926
+      NgBan_138: 229381065
+      NgBan_126: 831123851
+      NgBan_113: 251087075
+      NgBan_5: 457224056
+      NgBan_76: -158316834
+      NgBan_38: -106921506
+      NgBan_145: 413835234
+      NgBan_55: 1323481355
+      NgBan_85: 2129733132
+      NgBan_135: -1268050694
+      NgBan_6: 405310079
+      NgBan_124: 32736422
+      NgBan_19: 512110946
+      NgBan_10: 94691773
+      NgBan_62: -239814932
+      NgBan_97: -1169080991
+      NgBan_95: -1976758375
+      NgBan_148: 835070268
+      NgBan_133: -1568603981
+      NgBan_72: -527505831
+      NgBan_128: 935888472
+      NgBan_64: -901007550
+      NgBan_50: 388201094
+      NgBan_129: 1296925401
+      NgBan_131: -1067954541
+      NgBan_92: -206180435
+      NgBan_46: -355612338
+      NgBan_143: -91150247
+      NgBan_136: 547130777
+      NgBan_68: 757120817
+      NgBan_30: 1293194700
+      NgBan_81: -1884183577
+      NgBan_91: -501559849
+      NgBan_96: 2059547171
+      NgBan_134: 915300274
+      NgBan_137: -2080663377
+      NgBan_125: 200205951
+      NgBan_127: -220076142
+      NgBan_119: 2036452490
+      NgBan_60: -1464363987
+      NgBan_16: -1259174841
+      NgBan_141: -1220301311
+      NgBan_69: -1115824112
+      NgBan_43: -1058491525
+      NgBan_90: -515260745
+      NgBan_42: 1285596883
+      NgBan_82: -352169933
+      NgBan_41: 2097665026
+      NgBan_63: 926340428
+      NgBan_142: 1214907201
+      NgBan_87: -1728013094
+      NgBan_83: 1056499031
+      NgBan_88: -469699871
+      NgBan_67: -444953029
+      NgBan_139: -974110836
+      NgBan_48: 1139526947
+      NgBan_33: 288085838
+      NgBan_47: -1460467481
+      NgBan_71: 360007462
+      NgBan_94: 1135201833
+      NgBan_132: -846861986
+      NgBan_123: 1023146326
+      NgBan_70: -1137218288
+      NgBan_3: 793974939
+      NgBan_140: -1650384794
+      NgBan_53: -1922254713
+      NgBan_75: -244692301
+      NgBan_144: -737092130
+      NgBan_2: 324168862
+      NgBan_89: 1158673100
+      NgBan_37: -654272106
+      NgBan_84: -2105015871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
